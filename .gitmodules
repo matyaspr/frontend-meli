@@ -1,0 +1,6 @@
+[submodule "Api"]
+	path = Api
+	url = git@github.com:matyaspr/server-challenge-meli.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:matyaspr/client-challenge-meli.git
